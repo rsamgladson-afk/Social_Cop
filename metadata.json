@@ -1,0 +1,5 @@
+{
+  "name": "Social Cop",
+  "description": "An integrated mobile application designed to empower citizens to take an active role in reporting civic issues and ensuring public safety. It combines intuitive design, real-time tracking, and emergency assistance.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
